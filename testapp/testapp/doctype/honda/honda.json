@@ -7,7 +7,8 @@
  "field_order": [
   "section_break_jdy4",
   "id",
-  "honda_name"
+  "honda_name",
+  "description"
  ],
  "fields": [
   {
@@ -25,11 +26,16 @@
    "fieldname": "honda_name",
    "fieldtype": "Data",
    "label": "honda name "
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Data",
+   "label": "description"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-01-11 15:07:02.114012",
+ "modified": "2025-01-11 15:52:54.145868",
  "modified_by": "Administrator",
  "module": "testapp",
  "name": "honda",
