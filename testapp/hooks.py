@@ -243,5 +243,6 @@ app_license = "mit"
 # }
 fixtures=[
   'Custom Field',
- { "dt":"DocType","filters":[["name","=","honda"]]}
+ { "dt":"DocType","filters":[["name","=","honda"]]},
+ { "dt":"DocType","filters":[["name","=","tyota"]]}
   ]
